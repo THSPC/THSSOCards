@@ -1,3 +1,4 @@
-This is the source code for the article Create Digital Tickets with PHP and
-Apple Passbook by Vito Tardia available at 
-http://sitepoint.com/create-digital-tickets-with-php-and-apple-passbook
+# THS SO Cards
+
+An experimental effort to digitalize the Tenafly High School Student Organization Cards using the Apple iOS Passbook API for PHP.
+Code based on the tutorial from the article, "Create Digital Tickets with PHP and Apple Passbook" by Vito Tardia.
